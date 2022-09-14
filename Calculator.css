@@ -1,0 +1,30 @@
+body{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTjzVQZe1F7ALxYmFOpE8WwG_enBVo-RStvxncw9vBCaZbpnLb414YL-ea0oO4TGvUEA8&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+div.container{
+     margin: auto;
+     width: 50%;
+    padding: 50%;
+}
+button{
+    cursor: pointer;
+    border: 1px solid black;
+    margin: 2px;
+    border-radius: 5px;
+}
+
+#input{
+    width: 100px;
+}
+#ans{
+    width: 110px;
+    background-color: rgb(61, 116, 199);
+}
+/* .container_1{
+   // position: fixed;
+    width: 200px;
+} */
